@@ -1,0 +1,32 @@
+*{
+	margin: 0px;
+}
+    body{
+	margin: 0px;
+}
+	#nav{
+		background-color:#5B5B5B;
+		text-align: right;
+		width: 100%;
+		font-size: 20px;
+	}
+	#nav a{
+	color: white;
+	text-decoration: none;
+	line-height: 80px; 
+    padding-right: 30px;
+    font-family: '標楷體';
+	}
+	#content{
+	height: auto;
+    background-color: white;
+	}
+	#footer{
+	width: 100%;
+	line-height: 60px;
+	text-align: center;
+    background-color:#5B5B5B;
+    color:white;
+    font-family: '標楷體';
+    font-size: 16px;
+	}
